@@ -3,12 +3,8 @@
 
 **Akshata3005/Akshata3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Deep Learning and Python
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Pytohn Programming and SQL
 - 📫 How to reach me: akshataagine@gmail.com
 - 😄 Pronouns: She, Her
