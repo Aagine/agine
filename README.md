@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**Akshata3005/Akshata3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Deep Learning and Python
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💬 Ask me about Pytohn Programming and SQL
